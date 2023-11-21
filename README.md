@@ -3,13 +3,6 @@
 
 This project is a business website for "Sentiments," a retail destination specializing in ethnic Indian wear. The website is built using HTML, CSS, JavaScript, and the Bootstrap template.
 
-## Table of Contents
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 1. **Responsive Design:** The website is designed to be responsive, ensuring a seamless experience across various devices.
@@ -32,8 +25,3 @@ This project is a business website for "Sentiments," a retail destination specia
 
 10. **Footer:** The footer includes social media links and a "Back to Top" link.
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/khizarsait/Web_Dev_internship.git
