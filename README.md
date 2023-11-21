@@ -32,3 +32,8 @@ This project is a business website for "Sentiments," a retail destination specia
 
 10. **Footer:** The footer includes social media links and a "Back to Top" link.
 
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/khizarsait/Web_Dev_internship.git
