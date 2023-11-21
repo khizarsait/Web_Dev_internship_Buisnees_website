@@ -11,17 +11,15 @@ This project is a business website for "Sentiments," a retail destination specia
 
 3. **Theme Toggle:** The website provides a theme toggle button for users to switch between light and dark themes.
 
-4. **Login Modal:** Users can access a login modal for an enriched shopping experience.
+4. **Homepage Section:** The homepage features a hero section introducing the brand and a call-to-action button for exploration.
 
-5. **Homepage Section:** The homepage features a hero section introducing the brand and a call-to-action button for exploration.
+5. **About Us Section:** A detailed section describing the history, values, and offerings of Sentiments.
 
-6. **About Us Section:** A detailed section describing the history, values, and offerings of Sentiments.
+6. **Sentiments Section:** Highlights the unique selling points of Sentiments, including artistry, quality assurance, and customer-centric support.
 
-7. **Sentiments Section:** Highlights the unique selling points of Sentiments, including artistry, quality assurance, and customer-centric support.
+7. **Contact Us Section:** A dedicated section allowing users to contact the business through a form.
 
-8. **Contact Us Section:** A dedicated section allowing users to contact the business through a form.
+8. **Locate Us Section:** Includes a Google Map to help users find the physical location of Sentiments.
 
-9. **Locate Us Section:** Includes a Google Map to help users find the physical location of Sentiments.
-
-10. **Footer:** The footer includes social media links and a "Back to Top" link.
+9. **Footer:** The footer includes social media links and a "Back to Top" link.
 
